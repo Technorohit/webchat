@@ -1,0 +1,9 @@
+input, button{
+  font-size: 20px;
+  padding:8px 50px;
+  margin:5px;
+  border-radius: 10px;
+}
+button{
+  margin-left: 55px;
+}
